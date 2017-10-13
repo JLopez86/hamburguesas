@@ -9,6 +9,9 @@
 import Foundation
 import UIKit
 
+
+//Coleccion de Paises
+
 class ColeccionDePaises {
     let paises = ["Paraguay", "Brasil", "Mexico", "Argentina", "Uruguay", "Bolivia", "Peru", "Chile", "Ecuador", "Venezuela", "Colombia", "Costa Rica", "Guatemala", "Puerto Rico", "Panamá", "Salvador", "Cuba", "Republica Dominicana", "Nicaragua", "EE.UU"]
     
